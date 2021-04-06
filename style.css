@@ -1,0 +1,21 @@
+body,*{
+    margin: 0;
+    padding: 0;
+}
+.con{
+    justify-content: center;
+    display: inline;
+    max-width: 500px;
+
+}
+.con, a{
+    color: black;
+    margin-left: auto;
+}
+.con h1{
+    float: left;
+}
+ .home{
+  display: inline;
+  text-decoration: none;
+}
